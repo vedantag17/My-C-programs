@@ -1,2 +1,2 @@
 # My-C-programs
-These some of my practice programs.
+These are some of my practice programs.
