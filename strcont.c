@@ -15,8 +15,4 @@ int main()
  puts(str1);
  return 0;
 }
-/*Enter the string1: VEdant 
-Enter the string2: Agrawal
-Agrawal
-VEdantAgrawal
-*/ 
+
